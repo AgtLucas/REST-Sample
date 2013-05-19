@@ -1,3 +1,7 @@
 packages/
 ContactManager/bin
 ContactManager/obj
+.DS_Store
+._.DS_Store
+ContactManager.sln
+ContactManager.v11.suo
